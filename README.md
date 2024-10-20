@@ -2,7 +2,7 @@
 
 ## 1 Introduction
 
-In this repository, I've packed all the study materials for CMU 15-213 CSAPP courses.
+In this repository, I've packed all the study materials for CMU 15-213 CSAPP courses. In addition, since PKU adopts this course, I will contain discussions produced by PKU.
 
 ## 2 Content
 
